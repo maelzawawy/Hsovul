@@ -4,3 +4,7 @@ This repository contains result files related to our paper "Detecting Hidden Sen
 Below is a description of each file in this project:
 
 ## File Descriptions
+
+### TrigerScope-Issue.jpg
+
+This is a screenshot for running a third party implementation of TriggerScope.
