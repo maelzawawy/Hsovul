@@ -26,18 +26,26 @@ A folder contains files concluding the HSOs (explicit and JobServices ones) foun
 A CSV file contains concluding HSOs (explicit) found by HSOVUL for apps in our dataset.
 
 ### HiSenDroid.rar
+A folder contains details of HiSenDroid results for apps in our dataset. 
 
 ### HiSenDroid_HSOs.rar
+A CSV file concluding HiSenDroid results for apps in our dataset. 
 
 ### JobServicesStats.rar
+A CSV file contains the found HSOs utilizing JobServices in apps in our dataset. 
 
 ### Permissions.rar
+A CSV file contains concluding permissions used in apps in our dataset. 
 
 ### TriggerScope.rar
+A folder contains details of TriggerScope results for apps in our dataset. 
 
 ### TriggerScope_HSOs.rar
+A CSV file contains concluding TriggerScope results for apps in our dataset. 
 
 ### WorkManagerStats.rar
+
+A CSV file concludes found HSOs utikizing WorkManagers in apps in our dataset. 
 
 ### Coll-Perms.rar
 
