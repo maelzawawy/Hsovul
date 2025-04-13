@@ -25,7 +25,6 @@ A folder contains files concluding the HSOs (explicit and JobServices ones) foun
 
 A CSV file contains concluding HSOs (explicit) found by HSOVUL for apps in our dataset.
 
-
 ### HiSenDroid.rar
 
 ### HiSenDroid_HSOs.rar
