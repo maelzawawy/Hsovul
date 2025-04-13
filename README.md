@@ -8,3 +8,7 @@ Below is a description of each file in this project:
 ### TrigerScope-Issue.jpg
 
 This is a screenshot for running a third party implementation of TriggerScope.
+
+###  MLFeatures.rar
+
+This file has part of values used for the machine learning features utlized in our experiemnts.  
