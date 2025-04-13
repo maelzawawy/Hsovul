@@ -5,20 +5,26 @@ Below is a description of each file in this project:
 
 ## File Descriptions
 
-
 ### AnalysisResults.rar
 
+A CSV file contains the analysis results for a part of our dataset.
 
 ### AnalysisTimes.rar
 
-### Android-Perms.rar
+A CSV file that contains the detailed times needed for a part of our analysis. 
 
 ### AppsAnalysis.rar
 
+A folder contains files concluding the analysis results of apps in our dataset.
+
 ### HSOVUL.rar
 
+A folder contains files concluding the HSOs (explicit and JobServices ones) found by HSOVUL for apps in our dataset. 
 
 ### HSOVUL_HSOs.rar
+
+A CSV file contains concluding HSOs (explicit) found by HSOVUL for apps in our dataset.
+
 
 ### HiSenDroid.rar
 
