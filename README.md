@@ -11,4 +11,4 @@ This is a screenshot for running a third party implementation of TriggerScope.
 
 ###  MLFeatures.rar
 
-This file has part of values used for the machine learning features utlized in our experiemnts.  
+This file has part of values used for the machine-learning features utlized in our experiemnts.  
