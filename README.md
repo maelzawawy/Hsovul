@@ -7,8 +7,16 @@ Below is a description of each file in this project:
 
 ### TrigerScope-Issue.jpg
 
-This is a screenshot for running a third party implementation of TriggerScope.
+This is a screenshot for running a third-party implementation of TriggerScope.
+
+### Coll-Perms.rar
+
+This file includes all permissions (including custom ones) collected from apps during experiments.
+
+### Android-Perms.rar
+
+This file includes Android permissions (excluding custom ones) collected from apps during experiments.
 
 ###  MLFeatures.rar
 
-This file has part of values used for the machine-learning features utlized in our experiemnts.  
+This file contains some values used for the machine-learning features utilized in our experiences.  
