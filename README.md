@@ -5,9 +5,34 @@ Below is a description of each file in this project:
 
 ## File Descriptions
 
-### TrigerScope-Issue.jpg
 
-This is a screenshot for running a third-party implementation of TriggerScope.
+### AnalysisResults.rar
+
+
+### AnalysisTimes.rar
+
+### Android-Perms.rar
+
+### AppsAnalysis.rar
+
+### HSOVUL.rar
+
+
+### HSOVUL_HSOs.rar
+
+### HiSenDroid.rar
+
+### HiSenDroid_HSOs.rar
+
+### JobServicesStats.rar
+
+### Permissions.rar
+
+### TriggerScope.rar
+
+### TriggerScope_HSOs.rar
+
+### WorkManagerStats.rar
 
 ### Coll-Perms.rar
 
@@ -20,3 +45,9 @@ This file includes Android permissions (excluding custom ones) collected from ap
 ###  MLFeatures.rar
 
 This file contains some values used for the machine-learning features utilized in our experiences.  
+
+### TrigerScope-Issue.jpg
+
+This is a screenshot for running a third-party implementation of TriggerScope.
+
+
